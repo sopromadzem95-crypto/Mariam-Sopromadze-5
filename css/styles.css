@@ -17,9 +17,15 @@
     margin-right: auto;
 }
 .h3{
+    font-family: "ALK Rounded Nusx Med", sans-serif;
+}
+.h3{
     font-size: 36px;
     color: #7EB693;
     margin:72px 0px 6px 190px
+}
+.h1{
+    font-family: 'Arial GEO Bold';
 }
 .h1{
     font-size: 50px;
