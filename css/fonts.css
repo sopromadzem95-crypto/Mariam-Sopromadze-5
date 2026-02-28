@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Arial GEO Bold';
+    src: url('../fonts/arial-geo-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/arial-geo-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/arial-geo-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/arial-geo-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/arial-geo-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/arial-geo-bold-webfont.svg#arial_geobold') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Bungee';
+    src: url('../fonts/Bungee-Regular.eot');
+    src: url('../fonts/Bungee-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Bungee-Regular.woff2') format('woff2'),
+         url('../fonts/Bungee-Regular.woff') format('woff'),
+         url('../fonts/Bungee-Regular.ttf') format('truetype'),
+         url('../fonts/Bungee-Regular.svg#Bungee-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
