@@ -33,6 +33,7 @@
     margin-left: 190px;
 }
 .P-main{
+    font-family: 'Bungee';
 }
 .p-main{
     font-size: 18px;
@@ -46,7 +47,13 @@
     margin: 36px 0px 12px 190px;
 }
 .h5{
-    font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.h5{
+    font-size: 18px;
     color: #274C5B;
     vertical-align: middle;
 }
